@@ -1,4 +1,4 @@
-# Subset Selection Paper
+#  Subset Selection Paper
 
 This repository is associated with the the paper: [Partial Optimal Transport for Support Subset Selection](https://openreview.net/pdf?id=75CcopPxIr)
 
